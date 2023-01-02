@@ -1,0 +1,16 @@
+{
+  "name": "07-ecmascript",
+  "version": "1.0.0",
+  "description": "Entendiendo EcmaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "vue"
+  ],
+  "author": "Pablo de los Santos",
+  "license": "MIT"
+}

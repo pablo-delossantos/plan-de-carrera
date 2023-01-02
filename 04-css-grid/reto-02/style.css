@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0%;
+	box-shadow: border-box;
+	user-select: none;
+	-webkit-tap-highlight-color: transparent;
+}
+
+*:focus{
+	outline: none;
+}
+
+.container{
+	display: grid;
+	height: 900px;
+	place-content: center;
+	grid-template-columns: 100px 100px;
+	grid-auto-rows: 100px;
+	gap: 20px;
+}
+
+.item{
+	width: 50px;
+	height: 50px;
+}
+
+.uno{
+	background-color: #acd900;
+}
+.dos{
+	background-color: #70bc04;
+}
+.tres{
+	background-color: #258300;
+}
